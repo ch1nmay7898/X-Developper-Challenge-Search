@@ -1,17 +1,7 @@
 # X-Developper-Challenge-Search
 X-Developper-Challenge-Search
 
-# Install
 
-To install the dependencies for X-Developer-Challenge-Search, you can use Poetry, a dependency management tool for Python projects. Follow these steps:
 
-Make sure you have Poetry installed. If not, you can install it via pip:
-```bash
-pip install poetry
+<img width="1288" alt="Screenshot 2024-04-26 at 2 44 15 PM" src="https://github.com/ch1nmay7898/X-Developper-Challenge-Search/assets/26013973/9f9eedaf-da65-415a-a323-d55ad862d8ab">
 
-```
-
-```bash
-poetry install --no-root
-
-```
